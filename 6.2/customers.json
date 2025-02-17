@@ -1,0 +1,22 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Riquelme",
+        "email": "rop@example.com"
+    },
+    {
+        "customer_id": 2,
+        "name": "Christian Arabe",
+        "email": "capo@example.com"
+    },
+    {
+        "customer_id": 1,
+        "name": "Riquelme",
+        "email": "rop@example.com"
+    },
+    {
+        "customer_id": 2,
+        "name": "Christian Arabe",
+        "email": "capo@example.com"
+    }
+]

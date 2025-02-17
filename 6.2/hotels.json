@@ -1,0 +1,27 @@
+[
+    {
+        "hotel_id": 1,
+        "name": "Hotel Central",
+        "location": "Rurrenabaque",
+        "rooms": 50
+    },
+    {
+        "hotel_id": 2,
+        "name": "Hotel Plaza",
+        "location": "Choquechaca",
+        "rooms": 100
+    },
+    {
+        "hotel_id": 1,
+        "name": "Hotel Central",
+        "location": "Rurrenabaque",
+        "rooms": 50
+    },
+    {
+        "hotel_id": 2,
+        "name": "Hotel Plaza",
+        "location": "Choquechaca",
+        "rooms": 100
+    },
+    {}
+]
